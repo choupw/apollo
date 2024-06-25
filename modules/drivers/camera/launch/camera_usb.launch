@@ -1,0 +1,7 @@
+<cyber>
+    <module>
+        <name>camera_usb</name>
+        <dag_conf>/workspace/apollo/modules/drivers/camera/dag/camera_usb.dag</dag_conf>
+        <process_name>usb_cam</process_name>
+    </module>
+</cyber>
